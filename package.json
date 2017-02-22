@@ -1,0 +1,24 @@
+{
+  "name": "something",
+  "version": "1.0.0",
+  "description": "Dgana Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgana/dgana-currency-converter.git"
+  },
+  "keywords": [
+    "dgana",
+    "converter",
+    "currency"
+  ],
+  "author": "dgana <dgana@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dgana/dgana-currency-converter/issues"
+  },
+  "homepage": "https://github.com/dgana/dgana-currency-converter#readme"
+}
